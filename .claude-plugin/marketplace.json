@@ -1,0 +1,16 @@
+{
+  "name": "betterbeingme",
+  "owner": {
+    "name": "Joanne Hatchard",
+    "email": "hello@betterbeingme.com.au"
+  },
+  "description": "Better Being Me plugins for Claude",
+  "plugins": [
+    {
+      "name": "ndis-tracker",
+      "source": "./plugins/ndis-tracker",
+      "description": "Self-managed NDIS invoice tracking and weekly budget checks. Files invoices from Gmail to Google Drive, tracks your budget in a Google Sheet, and tells you what to pay and what to claim.",
+      "version": "1.0.0"
+    }
+  ]
+}
