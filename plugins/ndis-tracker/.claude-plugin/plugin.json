@@ -1,7 +1,6 @@
 {
   "name": "ndis-tracker",
-  "description": "Self-managed NDIS invoice tracking and weekly budget checks for Australian NDIS participants. Set up once per participant, then run a weekly check that files invoices, tracks your budget, and reminds you what to pay and claim.",
-  "version": "1.0.0",
+  "description": "Self-managed NDIS invoice tracking and weekly budget checks for Australian NDIS participants. Set up once per participant, then run a weekly check that files invoices, tracks your budget in Notion, and reminds you what to pay and claim.",
   "author": {
     "name": "Better Being Me",
     "email": "hello@betterbeingme.com.au"
